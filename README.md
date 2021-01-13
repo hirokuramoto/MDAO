@@ -5,10 +5,10 @@ MDAO is a connection tool for OpenFOAM and OpenMDAO.
 
 # Requirement
 
-* python-3.6.9 
+* python-3.6.9
 * openmdao 3.1.1
-* numpy 
-* pandas 
+* numpy
+* pandas
 * matplotlib
 
 
@@ -31,24 +31,12 @@ cd examples
 python demo.py
 ```
 
-# Note
-
-注意点などがあれば書く
 
 # Author
 
-作成情報を列挙する
-
-* 作成者
-* 所属
-* E-mail
+* hirokuramoto
 
 # License
-ライセンスを明示する
 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
-
+"MDAO" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"MDAO" is Confidential.
